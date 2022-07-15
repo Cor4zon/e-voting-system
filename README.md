@@ -1,6 +1,3 @@
-# e-voting-system
-E-voting system 
-
 
 ## Frontend (React, MaterialUl)
 
